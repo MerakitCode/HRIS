@@ -1,2 +1,2 @@
 # HRIS
-Human Resources Information System
+HRIS - Human Resources Information System
